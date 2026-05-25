@@ -1,0 +1,7 @@
+.vscode/
+bin/
+build/
+obj/
+*.exe
+*.o
+*.txt

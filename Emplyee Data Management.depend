@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1716373043 source:c:\users\hp\desktop\employee data management\emplyee data management\database.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<string>
+	"database.h"
+
+1716392887 source:c:\users\hp\desktop\employee data management\emplyee data management\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<limits>
+	"employee.h"
+	"database.h"
+
+1716372828 source:c:\users\hp\desktop\employee data management\emplyee data management\employee.cpp
+	<iostream>
+	<string>
+	<limits>
+	"employee.h"
+
+1716062243 c:\users\hp\desktop\employee data management\emplyee data management\employee.h
+
+1716062141 c:\users\hp\desktop\employee data management\emplyee data management\database.h
+	"employee.h"
+
+1716373043 source:c:\users\hp\desktop\bme journey\1st year\semester 2 (23-24)\programming 2\employee data management\emplyee data management\database.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<string>
+	"database.h"
+
+1716062141 c:\users\hp\desktop\bme journey\1st year\semester 2 (23-24)\programming 2\employee data management\emplyee data management\database.h
+	"employee.h"
+
+1716062243 c:\users\hp\desktop\bme journey\1st year\semester 2 (23-24)\programming 2\employee data management\emplyee data management\employee.h
+
+1716372828 source:c:\users\hp\desktop\bme journey\1st year\semester 2 (23-24)\programming 2\employee data management\emplyee data management\employee.cpp
+	<iostream>
+	<string>
+	<limits>
+	"employee.h"
+
+1716392887 source:c:\users\hp\desktop\bme journey\1st year\semester 2 (23-24)\programming 2\employee data management\emplyee data management\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<limits>
+	"employee.h"
+	"database.h"
+
